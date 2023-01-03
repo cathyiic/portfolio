@@ -29,4 +29,7 @@
                             <span class="animated-item">a student</span>
                         </div>
                     </h1>
-                    <p>I research, create, market, and design for content, code, and clients. I am an aspiring software developer with knowledge in these languages: <b>C++</b>, <b>Java</b>, <b>C</b>, <b>Python</b>, and 
+                    <p>I research, create, market, and design for content, code, and clients. I am an aspiring software developer with knowledge in these languages: <b>C++</b>, <b>Java</b>, <b>C</b>, <b>Python</b>, and <b>CSS</b>.</p>
+                    <div class = "custom-btn-group mt-4">
+                    <a href="https://www.linkedin.com/in/catherine-ichwan-505203239/" class="btn mr-lg-2 custom-btn">Linkedin</a>
+                    
